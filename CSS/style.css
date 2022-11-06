@@ -1,0 +1,47 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba (0, 0, 0, o.6);
+    border-radius: 5px;
+    width: 1000px;
+    margin: 100px;
+    margin-top: 100px;
+    transition: 0.4s;
+    text-align: center;
+    font-size: 16px;
+    background-color: pink;
+    padding: 2px 16px;
+
+}
+
+.card-body {
+    padding: 2px 16px;
+    position: relative;
+    margin: 10px 
+
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba (o,0,0,0.6);
+}
+
+img {
+
+    border-radius: 10px;
+}
+
+.img-flex {
+    display: block;
+    width: 100%;
+}
+
+.Document {
+    padding: 25px;
+    margin: 100px;
+}
+
+.body {
+    width: 500px;
+}
+
+.instructions {
+    width: 500px;
+}
